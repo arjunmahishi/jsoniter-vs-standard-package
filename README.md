@@ -1,6 +1,6 @@
 # encoding/json vs jsoniter
 
-This is a benchmark in go to compare the performance of standard package `encoding/json` and `jsoniter`
+This is a benchmark in go to compare the performance of standard package `encoding/json` and `jsoniter`. This repo is complimentary to [this video](https://youtu.be/7ykQqbgXsJU).
 
 ## How to Run
 
